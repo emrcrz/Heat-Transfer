@@ -1,2 +1,2 @@
 # Heat-Transfer
-A conduction problem solved by numerical approach 
+I will share some heat transfer problems solved by numerical approach on this repository.

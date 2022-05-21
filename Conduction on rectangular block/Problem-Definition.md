@@ -12,3 +12,6 @@ Dimensions of the block is shown below.
 
 In this code, finite difference numerical method is applied for the problem mentioned above. Computional domain is divided into a hundrant pieces in both the x and y direction. Then, boundary conditions are implemented for each node in the domain. Finally, temperature distribution matrix is obtained due to lineer system solver from numpy library and solution is visualized via a contour plot that you can see below.
 
+![This is an image](https://github.com/emrcrz/Heat-Transfer/blob/main/Conduction%20on%20rectangular%20block/Images/Figure_1.png)
+
+To make sure that the solution is correct, the same case is solved via a commertial software Siemens StarCCM + and the result is compared with it. As shown below, there is a good aligment between two results.  

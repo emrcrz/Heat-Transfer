@@ -15,3 +15,5 @@ In this code, finite difference numerical method is applied for the problem ment
 ![This is an image](https://github.com/emrcrz/Heat-Transfer/blob/main/Conduction%20on%20rectangular%20block/Images/Figure_1.png)
 
 To make sure that the solution is correct, the same case is solved via a commertial software Siemens StarCCM + and the result is compared with it. As shown below, there is a good aligment between two results.  
+
+![This is an image](https://github.com/emrcrz/Heat-Transfer/blob/main/Conduction%20on%20rectangular%20block/Images/conduction_deneme_Scalar%20Scene%201.png)
